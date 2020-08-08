@@ -1,0 +1,12 @@
+.vs/*
+Library/*
+Temp/*
+obj/*
+Assets/AssetStoreTools/*
+Assets/AssetStoreTools.meta
+*.csproj
+*.sln
+*.suo
+*.pidb
+*.userprefs
+*.unityproj
